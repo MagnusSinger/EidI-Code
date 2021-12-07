@@ -21,7 +21,7 @@ public class Drawer extends JComponent {
         }
     }
 
-    private final LinkedList<Line> lines = new LinkedList<Line>();
+    private final LinkedList<Line> lines = new LinkedList<>();
 
     public void addLine(int x1, int y1, int x3, int y2) {
         addLine(x1, y1, x3, y2, Color.black);
