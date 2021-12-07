@@ -1,2 +1,3 @@
 # EidI-Code
-Code der EidI Vorlesungen
+
+Einfach Repo klonen und ausprobieren. Es sind keine Dependencies notwendig!
