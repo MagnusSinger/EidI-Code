@@ -6,5 +6,6 @@ Beispiele der EiDi Vorlesung implementiert zum Anschauen, testen und spielen. Ei
 
 - Die Türme von Hanoi
 - Die Kochsche Schneeflocke
+- Binärsuche
 
 Erweiterung des Repositorys durch weitere Beispiele ist willkommen, einfach PR erstellen und ich füge es ein.

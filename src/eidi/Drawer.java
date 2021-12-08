@@ -1,4 +1,4 @@
-package com.magnus;
+package eidi;
 
 import javax.swing.*;
 import java.awt.*;

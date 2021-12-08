@@ -1,6 +1,6 @@
-package com.magnus.schnee;
+package eidi.schnee;
 
-import com.magnus.Drawer;
+import eidi.Drawer;
 
 import javax.swing.*;
 import java.awt.*;

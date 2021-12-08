@@ -1,6 +1,6 @@
-package com.magnus.hanoi;
+package eidi.hanoi;
 
-import com.magnus.Util;
+import eidi.Util;
 
 public class Hanoi {
 

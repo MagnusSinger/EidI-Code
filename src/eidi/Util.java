@@ -1,4 +1,4 @@
-package com.magnus;
+package eidi;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package com.magnus.schnee;
+package eidi.schnee;
 
 public class Point2 {
     private double x, y;

@@ -1,4 +1,4 @@
-package com.magnus.schnee;
+package eidi.schnee;
 
 public class Flocke {
 
