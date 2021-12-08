@@ -11,8 +11,8 @@ public class Main {
 
     /**
      @param a Array das durchsucht wird
-     @param x das zu suchende Element
-     @return index der Zahl im Array
+     @param x Die zu suchende Zahl
+     @return Index der Zahl im Array
      */
     public static int find(int[] a, int x) {
         return find0(a, x, 0, a.length - 1);
@@ -21,10 +21,10 @@ public class Main {
     /**
      *
      * @param a Array das durchsucht wird
-     * @param x die zu suchende Zahl
-     * @param n1 der linke Rand
-     * @param n2 der rechte Rand
-     * @return index der Zahl im Array
+     * @param x Die zu suchende Zahl
+     * @param n1 Der linke Rand
+     * @param n2 Der rechte Rand
+     * @return iIndex der Zahl im Array
      */
     public static int find0(int[] a, int x, int n1, int n2) {
         int t = (n1 + n2) / 2;
