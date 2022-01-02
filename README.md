@@ -9,5 +9,7 @@ Beispiele der EiDi Vorlesung implementiert zum anschauen, testen und herumspiele
 - Binärsuche
 - Generischer Stack
 - Merge-Sort
+- Exceptions
+- String-Pool mit Hash-Set
 
 Erweiterung des Repositorys durch weitere Beispiele ist willkommen, am besten durch einen PR.
